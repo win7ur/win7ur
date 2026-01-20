@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 <!--
 **win7ur/win7ur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Jacob, a high school student from in Poland.
+
+My biggest passion is cybersecurity.
+
+I spend my time exploring new thing on this field.
+
+Here I will post a bunch of projects where I document my learning journey.
