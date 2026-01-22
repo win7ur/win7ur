@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm Jacob, a high school student from in Poland.
 
-My biggest passion is cybersecurity.
+I’m currently learning cybersecurity and music production.
 
 I spend my time exploring new thing on this field.
 
